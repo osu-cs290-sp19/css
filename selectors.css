@@ -1,0 +1,31 @@
+h1 {
+  color: turquoise;
+}
+
+p {
+  color: magenta;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.italics-text {
+  font-style: italic;
+}
+
+#special-div {
+  border: 3px dashed orange;
+}
+
+#another-special-div {
+  background-color: lightpink;
+}
+
+p.bold-text{
+  font-size: 20px;
+}
+
+#special-div p {
+  text-decoration: underline;
+}
