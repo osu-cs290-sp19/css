@@ -29,3 +29,24 @@ p.bold-text{
 #special-div p {
   text-decoration: underline;
 }
+
+#special-div > p {
+  color: lime;
+}
+
+#special-div + div {
+  border: 5px solid brown;
+  background-color: lightgray;
+}
+
+#special-div ~ div {
+  border: 1px solid black;
+}
+
+html body div.bold-text.italics-text > p {
+
+}
+
+.that-paragraph {
+
+}
