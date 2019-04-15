@@ -24,8 +24,9 @@ p {
 }
 
 .display-type-set {
-  display: inline;
+  display: inline-block;
   background-color: lightblue;
   margin: 20px;
   padding: 40px;
+  border: 1px solid black;
 }
